@@ -1,4 +1,4 @@
-# Getting started with Quarkus
+## Sample code to show potential Isolates issue
 
 This is a sample code for checking isolates killing when background task is performed in js context
 
